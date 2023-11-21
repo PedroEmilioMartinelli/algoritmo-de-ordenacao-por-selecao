@@ -10,7 +10,7 @@ namespace ArrrayCode
     {
         static void Main(string[] args)
         {
-            var arr = new List<int> { 5, 7, 8, 3, 4, 10, 9, 2, 6 };// cria uma lista com nuermos inteirtos
+            var arr = new List<int> { 5, 3, 6, 2, 10 };// cria uma lista com nuermos inteirtos
             Console.WriteLine(string.Join(", ", SelectionSort(arr)));// separa todos os itens da lista com uma virgula
 
         }
@@ -38,7 +38,7 @@ namespace ArrrayCode
                     smallestIndex = i;
                 }
             }
-            return smallest;
+            return smallestIndex;  // Correção: retorna o índice do menor elemento
         }
         public static int[] SelectionSort(int[] unorderedArray)
         {

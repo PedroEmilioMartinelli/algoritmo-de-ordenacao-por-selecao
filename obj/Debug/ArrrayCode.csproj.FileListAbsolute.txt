@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\bin\Debug\ArrrayCode.exe.config
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\bin\Debug\ArrrayCode.exe
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\bin\Debug\ArrrayCode.pdb
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\obj\Debug\ArrrayCode.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\obj\Debug\ArrrayCode.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\obj\Debug\ArrrayCode.exe
+C:\Users\marti\source\repos\ArrrayCode\ArrrayCode\obj\Debug\ArrrayCode.pdb
